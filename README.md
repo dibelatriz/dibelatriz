@@ -1,10 +1,12 @@
 ## Oii amigos - Hi everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-
 ### Sou Gabriela - Designer, criadora e produtora de conteúdo digital com design gráfico. 
 
-Resumidamente cursei 6 semestres de Ciência da Computação fiz transferência para Analise e desenvolvimento de Sistemas do qual me formei em 2020. 
-Faço cursos frequentemente.
+Resumidamente cursei 5 semestres de Ciência da Computação fiz transferência. <br/>
+Em 2019, obtive conclusão da Graduação em Analise e Desenvolvimento de Sistemas. <br />
+Em 2016, formada em Design Gráfico.
+Em 2021, formada em Business Intelligence.
+Faço cursos periodicamente.
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,6 +32,8 @@ Faço cursos frequentemente.
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+<img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="22px" style="transform:rotate(-18deg);">
   
 <!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
   
