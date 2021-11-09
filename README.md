@@ -24,12 +24,12 @@
   <img align="center" alt="Gabi-Microsoft-geral" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
   <img align="center" alt="Gabi-Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
-<br/>
-<img align="right" alt="Gabi-pic" height="140" style="border-radius:40px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+<br/> 
+<img align="left" alt="Gabi-pic" width:"190" height="190" frameBorder="0" class="GABRIELA-giphy-embed" style="border-radius:40px;" src="https://media.giphy.com/media/6HKYeZTfONvB0FXNLG/giphy.gif" href="https://giphy.com/gifs/gifmulher-6HKYeZTfONvB0FXNLG"> 
 <div align="center">
   <a href="https://github.com/dibelatriz">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dibelatriz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibellatriz&layout=compact&langs_count=7&theme=blue-green"/>
+<!--   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibellatriz&layout=compact&langs_count=7&theme=blue-green"/> -->
 </div>  
 
   <br />
