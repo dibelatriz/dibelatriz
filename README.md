@@ -1,11 +1,20 @@
-## Oii amigos - Hi everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## Hi everyone! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-### Sou Gabriela - Designer, criadora e produtora de conteúdo digital com design gráfico.
+### I'm Gabriela -  Designer, creator and producer of digital content with graphic design.
+<p>What do I do with my day often?</p>
+<ul>
+<li>I'm loving practicing PL/SQL, SQL Server, Oracle, Salesforce and also cloud platforms.</li>
+  <li>I am graduated, I work as a database analyst.</li>
+  <li>I like to study. I'm learning french and english. I speak Portuguese and Italian fluently.</li>
+  <li>If you want to know more click on the blue animation below :heart: </li>
+</ul>
 <p align="center">
   <a href="https://beacons.ai/dibelatriz"><img src="https://readme-typing-svg.herokuapp.com?color=%23275EF7&width=500&height=30&lines=Learn+more+about+me+on+other+social+network" target="_blank"></a>
 </p>
 <div style="display: inline_block" align="center">
   <img align="center" alt="Gabi-Salesforce" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
+  <img align="center" alt="Gabi-Oracle" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+
   <img align="center" alt="Gabi-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gabi-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
