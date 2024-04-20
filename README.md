@@ -1,6 +1,11 @@
 ## Hi everyone! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-### I'm Gabriela -  Produtora de conteúdo digital com design gráfico.
+### I'm Gabriela - Data Analyst.
+🎓 I'm dregree in Systems Analyst
+🎓 I'm studying Engineering 
+🎵 I play the keyboard ♪
+I like learning something new
+ 
 <p align="center">
   <a href="https://beacons.ai/dibelatriz"><img src="https://readme-typing-svg.herokuapp.com?color=%23275EF7&width=500&height=30&lines=Learn+more+about+me+on+other+social+network" target="_blank"></a>
 </p>
@@ -21,11 +26,7 @@
    <img align="center" alt="Gabi-Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 <br/> 
-<img align="left" alt="Gabi-pic" width:"190" height="190" frameBorder="0" class="GABRIELA-giphy-embed" style="border-radius:40px;" src="https://media.giphy.com/media/6HKYeZTfONvB0FXNLG/giphy.gif" href="https://giphy.com/gifs/gifmulher-6HKYeZTfONvB0FXNLG"> 
-<div align="center">
-  <a href="https://github.com/dibelatriz">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dibelatriz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibellatriz&layout=compact&langs_count=7&theme=blue-green"/>
+
 </div>  
 
 <br />
