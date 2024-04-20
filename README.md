@@ -29,9 +29,4 @@
 </div>  
 
 <br />
-<div align="center">
-  <a href="https://github.com/dibelatriz"><img src="https://github.com/dibelatriz/dibelatriz/blob/output/github-contribution-grid-snake.svg"></a>
-</div>
-<div align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="22px" style="transform:rotate(-18deg);">  
-</div>
+
